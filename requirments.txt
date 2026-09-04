@@ -1,1 +1,3 @@
 TOKEN = "8613706725:AAG0TdyvDIoP6tVIILJTDBdbV_55ZyqeiUA"
+python-telegram-bot
+psycopg2-binary
