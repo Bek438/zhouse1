@@ -1,3 +1,2 @@
-BOT_TOKEN="8613706725:AAG0TdyvDIoP6tVIILJTDBdbV_55ZyqeiUA"
 python-telegram-bot==21.7
 psycopg2-binary
